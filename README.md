@@ -10,7 +10,7 @@ I'm Sunny, a Systems Analysis and Development student and aspiring COBOL/mainfra
 
 | Problem Set | Topic | Problems | Status |
 |---|---|---|---|
-| Week 0 | Querying | Cyberchase, 36 Views | ✅ Cyberchase / ⏳ 36 Views |
+| Week 0 | Querying | Cyberchase, 36 Views | ✅ Cyberchase / ✅ 36 Views |
 | Week 1 | Relating | - | 🔒 |
 | Week 2 | Designing | - | 🔒 |
 | Week 3 | Writing | - | 🔒 |
