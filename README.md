@@ -4,16 +4,16 @@ My solutions to the problem sets from [CS50's Introduction to Databases with SQL
 
 ## About
 
-I'm Sunny, a Systems Analysis and Development student and aspiring COBOL/mainframe developer. This course is part of my journey to build a solid foundation in databases and SQL, which are essential skills in the mainframe world.
+I'm Miguel, a Systems Analysis and Development student and aspiring COBOL/mainframe developer. This course is part of my journey to build a solid foundation in databases and SQL, which are essential skills in the mainframe world.
 
 ## Problem Sets
 
 | Problem Set | Topic | Problems | Status |
 |---|---|---|---|
-| Week 0 | Querying | Cyberchase, 36 Views | ✅ Cyberchase / ✅ 36 Views |
-| Week 1 | Relating | - | 🔒 |
-| Week 2 | Designing | - | 🔒 |
-| Week 3 | Writing | - | 🔒 |
+| Week 0 | Querying | ✅ Cyberchase / ✅ 36 Views / ✅ Players |
+| Week 1 | Relating | ✅ Packages / ✅ DESE / ✅ Moneyball |
+| Week 2 | Designing | ✅ ATL / ✅ Happy to Connect / ✅ Union Square Donuts |
+| Week 3 | Writing | ✅ Don't Panic! / ⏳ Meteorite Cleaning |
 | Week 4 | Viewing | - | 🔒 |
 | Week 5 | Optimizing | - | 🔒 |
 | Week 6 | Scaling | - | 🔒 |
@@ -21,8 +21,11 @@ I'm Sunny, a Systems Analysis and Development student and aspiring COBOL/mainfra
 ## What I'm Learning
 
 - Writing SQL queries with `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, and aggregate functions
+- Relating data across multiple tables with `JOIN` and subqueries
+- Designing database schemas with `CREATE TABLE`, `PRIMARY KEY`, and `FOREIGN KEY`
+- Writing and modifying data with `INSERT`, `UPDATE`, and `DELETE`
 - Working with SQLite databases
-- Filtering and sorting data to answer real-world questions
+- Importing and cleaning CSV data
 
 ## Tools
 
