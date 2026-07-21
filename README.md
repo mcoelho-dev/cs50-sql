@@ -14,7 +14,7 @@ I'm Miguel, a Systems Analysis and Development student and aspiring COBOL/mainfr
 | Week 1 | Relating | ✅ Packages / ✅ DESE / ✅ Moneyball |
 | Week 2 | Designing | ✅ ATL / ✅ Happy to Connect / ✅ Union Square Donuts |
 | Week 3 | Writing | ✅ Don't Panic! / ✅ Meteorite Cleaning |
-| Week 4 | Viewing | - | 🔒 |
+| Week 4 | Viewing | ✅ Census Taker / ✅ The Private Eye / ✅ Bed and Breakfast |
 | Week 5 | Optimizing | - | 🔒 |
 | Week 6 | Scaling | - | 🔒 |
 
