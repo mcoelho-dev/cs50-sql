@@ -15,7 +15,7 @@ I'm Miguel, a Systems Analysis and Development student and aspiring COBOL/mainfr
 | Week 2 | Designing | ✅ ATL / ✅ Happy to Connect / ✅ Union Square Donuts | ✅
 | Week 3 | Writing | ✅ Don't Panic! / ✅ Meteorite Cleaning | ✅
 | Week 4 | Viewing | ✅ Census Taker / ✅ The Private Eye / ✅ Bed and Breakfast | ✅
-| Week 5 | Optimizing | ⏳ In a Snap | ⏳ |
+| Week 5 | Optimizing | ⏳ In a Snap / ⏳ your.harvard | ⏳ |
 | Week 6 | Scaling | - | 🔒 |
 
 ## What I'm Learning
