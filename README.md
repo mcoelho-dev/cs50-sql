@@ -17,7 +17,7 @@ I'm Miguel, a Systems Analysis and Development student and aspiring COBOL/mainfr
 | Week 4 | Viewing | ✅ Census Taker / ✅ The Private Eye / ✅ Bed and Breakfast | ✅
 | Week 5 | Optimizing | ✅ In a Snap / ✅ your.harvard | ✅ |
 | Week 6 | Scaling | ✅ Happy to Connect (Sentimental) / ✅ From the Deep / ✅ Don’t Panic! (Sentimental) with Python | ✅ 
-| Week 6 | Final Project | ✅ Final Project: https://youtu.be/y8ZmbtH-Dek | ✅ |
+| Final | Final Project | ✅ Final Project: https://youtu.be/y8ZmbtH-Dek | ✅ |
 
 ## What I'm Learning
 
