@@ -32,3 +32,11 @@ I'm Miguel, a Systems Analysis and Development student and aspiring COBOL/mainfr
 
 - SQLite3
 - VS Code (cs50.dev)
+
+## Certifications
+
+<a href="https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929">
+    <img src="https://raw.githubusercontent.com/mcoelho-dev/mcoelho-dev/main/CS50%20SQL.png" alt="CS50 SQL Certificate" width="120"/>
+</a>
+
+[![CS50 SQL](https://img.shields.io/badge/CS50_SQL-Harvard_University-A51C30?style=flat&logo=harvard)](https://cs50.harvard.edu/certificates/31bd61ac-0926-47e4-88da-c65e8cc92929)
